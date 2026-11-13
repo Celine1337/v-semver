@@ -1,0 +1,2 @@
+build.sh linguist-generated=true
+test.sh linguist-generated=true

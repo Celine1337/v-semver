@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" font-family="Ubuntu, 'Segoe UI', Helvetica, Arial, sans-serif">
+  <defs><clipPath id="card"><rect width="1200" height="380" rx="28"/></clipPath></defs>
+  <rect width="1200" height="380" rx="28" fill="#2b2126"/>
+  <g clip-path="url(#card)">
+    <path d="M940 0 C930 70 990 110 1050 118 C1110 126 1150 96 1200 110 L1200 0 Z" fill="#8e4a63"/>
+    <path d="M1010 380 C1000 330 1040 300 1090 296 C1140 292 1170 320 1200 310 L1200 380 Z" fill="#8a6a2f"/>
+    <g fill="#7b5563"><circle cx="1138.0" cy="240.0" r="11"/><circle cx="1128.3" cy="263.3" r="11"/><circle cx="1105.0" cy="273.0" r="11"/><circle cx="1081.7" cy="263.3" r="11"/><circle cx="1072.0" cy="240.0" r="11"/><circle cx="1081.7" cy="216.7" r="11"/><circle cx="1105.0" cy="207.0" r="11"/><circle cx="1128.3" cy="216.7" r="11"/><circle cx="1105" cy="240" r="34"/></g>
+    <circle cx="1105" cy="240" r="11" fill="#2b2126"/>
+  </g>
+  <g fill="#eba7b9"><circle cx="284.0" cy="190.0" r="28"/><circle cx="272.7" cy="232.0" r="28"/><circle cx="242.0" cy="262.7" r="28"/><circle cx="200.0" cy="274.0" r="28"/><circle cx="158.0" cy="262.7" r="28"/><circle cx="127.3" cy="232.0" r="28"/><circle cx="116.0" cy="190.0" r="28"/><circle cx="127.3" cy="148.0" r="28"/><circle cx="158.0" cy="117.3" r="28"/><circle cx="200.0" cy="106.0" r="28"/><circle cx="242.0" cy="117.3" r="28"/><circle cx="272.7" cy="148.0" r="28"/><circle cx="200" cy="190" r="86"/></g>
+  <circle cx="200" cy="190" r="64" fill="#f8e3ea"/>
+  <g transform="translate(176,166)" fill="none" stroke="#7b5563" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"><path d="M7 3 L5 17 M13 3 l-2 14 M3 7 h14 M2 13 h14"/></g>
+  <text x="360" y="118" font-size="20" font-weight="700" fill="#f8e3ea" letter-spacing="0.5">V · VERSIONING</text>
+  <text x="360" y="185" font-size="62" font-weight="800" fill="#f8e3ea">v-semver</text>
+  <text x="360" y="228" font-size="24" fill="#e3ccd4">SemVer 2.0 compare, bump and validate</text>
+  <rect x="360" y="262" width="380" height="40" rx="20" fill="#3b2c33"/>
+  <g transform="translate(378,273)" fill="none" stroke="#eba7b9" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect width="24" height="18" rx="3"/><path d="M4 5 l4 4 -4 4 M12 13 h6"/></g>
+  <text x="412" y="288" font-size="18" fill="#eba7b9">v-semver compare 1.2.3-alpha 1.2.3</text>
+  <rect x="756" y="262" width="160" height="40" rx="20" fill="#3b2c33"/>
+  <g transform="translate(772,273)" fill="none" stroke="#eba7b9" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect width="16" height="18" rx="2"/><path d="M4 5 h8 M4 9 h8 M4 13 h5"/></g>
+  <text x="798" y="288" font-size="18" fill="#eba7b9">License: MIT</text>
+</svg>
